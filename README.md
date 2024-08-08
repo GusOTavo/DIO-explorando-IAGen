@@ -1,4 +1,4 @@
-# Challenge DIO: Criar Imagens e Reconhecer Texto de Imagens utilizando o Microsoft Copilot
+# Challenge DIO: Criar Imagens utilizando o Microsoft Copilot
 
 ## Criando Imagens:
 
