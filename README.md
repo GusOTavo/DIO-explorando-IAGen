@@ -1,4 +1,4 @@
-# Challenge DIO: Criar Imagens utilizando o Microsoft Copilot
+# Challenge DIO: Criar Imagens e Reconhecer texto em Imagens utilizando o Microsoft Copilot
 
 ## Criando Imagens:
 
@@ -33,3 +33,35 @@
 </br>
 
 - Todas as imagens foram geradas utilizando a versão CRIATIVA do Microsoft Copilot IA.
+
+## Reconhecendo Texto em Imagens:
+
+- Input 1:
+
+<img src="inputs/input4.png">
+
+- Output 1:
+
+<img src="outputs/output4.png">
+
+</br>
+
+- Input 2:
+
+<img src="inputs/input5.png">
+
+- Output 2:
+
+<img src="outputs/output5.png">
+
+</br>
+
+- Input 3:
+
+<img src="inputs/input6.png">
+
+- Output 3:
+
+<img src="outputs/output6.png">
+
+</br>
